@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.apirest">
+        <State />
+      </entry>
+      <entry key="app.corrutinas">
+        <State />
+      </entry>
+      <entry key="app.datastore">
+        <State />
+      </entry>
+      <entry key="app.gpsmaps">
+        <State />
+      </entry>
+      <entry key="app.notificacioneslocales">
+        <State />
+      </entry>
+      <entry key="app.room">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
